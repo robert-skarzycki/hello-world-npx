@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "description": "My first npx package",
   "main": "index.js",
-  "bin": {
-    "@rskarzycki/hello-world-npx": "./bin.js"
-  },
+  "bin": "./bin.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robert-skarzycki/hello-world-npx.git"
