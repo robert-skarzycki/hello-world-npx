@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-npx",
+  "version": "1.0.0",
+  "description": "My first npx package",
+  "main": "index.js",
+  "bin": {
+    "hello-world": "./bin.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-skarzycki/hello-world-npx.git"
+  },
+  "keywords": [
+    "npx",
+    "hello-world"
+  ],
+  "author": "Robert Skarżycki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-skarzycki/hello-world-npx/issues"
+  },
+  "homepage": "https://github.com/robert-skarzycki/hello-world-npx#readme"
+}
