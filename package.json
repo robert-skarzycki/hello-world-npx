@@ -1,10 +1,10 @@
 {
-  "name": "hello-world-npx",
+  "name": "@rskarzycki/hello-world-npx",
   "version": "0.1.0",
   "description": "My first npx package",
   "main": "index.js",
   "bin": {
-    "hello-world-npx": "./bin.js"
+    "@rskarzycki/hello-world-npx": "./bin.js"
   },
   "repository": {
     "type": "git",
