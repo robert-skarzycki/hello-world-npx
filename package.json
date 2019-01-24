@@ -4,7 +4,7 @@
   "description": "My first npx package",
   "main": "index.js",
   "bin": {
-    "hello-world": "./bin.js",
+    "hello-world-npx": "./bin.js"
   },
   "repository": {
     "type": "git",
